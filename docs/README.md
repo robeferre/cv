@@ -33,16 +33,15 @@ Startup developing a Blockchain.
 Startup developing a Finance blockchain platfarm.
   - Goggle cloud solutions design
   - Terraform architecture and coding
-  - python development
+  - Python development
   - Gke multi clusters administration
   - kubernetes architecture and administration
   - Gitlab pipeline development.
-  - allocated in a data team with multiple pipelines
+  - Allocated in a data team with multiple data pipelines
   - Cassandra, bit table, big query, Postgres
   - Rundeck development and observability tools'
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
-
 
 ## 💬 Languages
 
