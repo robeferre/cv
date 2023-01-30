@@ -20,25 +20,13 @@ Startup developing a Finance blockchain platform.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
 <br><br>
 
-**Devops Engineer** @ [Endlabs](https://www.liftedinit.org/) _(Dec 2020 - Present)_ <br>
+**Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(Dec 2020 - Present)_ <br>
 Startup developing a Blockchain.
   - ansible playbooks
   - deployed and maintained a on prem kubernetes cluster
   - totally on prem.
   - developed KV store using golang on top of tendermint.
   - **_Technologies used:_** Baremetal servers, networking, ansible, kubespray, kubernetes, tendermint, golang
-<br><br>
-
-**Devops Lead** @ [Lifted](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
-Startup developing a Finance blockchain platfarm.
-  - aws architect
-  - Serverless architecture
-  - Kubernetes architecture, deployment (EKS)
-  - Shell scripting and python for automation
-  - Observability tools (Grafana, Cloudwatch and Rundeck)
-  - Blockchain workload (centriguge, tendermint, smartcontacts)
-  - Resposable for production environments, security and root credentials.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
 <br><br>
 
 **SRE** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(Dec 2020 - Present)_ <br>
