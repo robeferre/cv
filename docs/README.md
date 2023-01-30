@@ -8,9 +8,9 @@ _Software engineer based in São Paulo 🇧🇷_ <br>
 
 **Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
 Startup developing a Finance blockchain platform.
-  - aws architecture
+  - Aws architecture
   - Jenkins deployment & administration
-  - terraform deployment
+  - Terraform deployment
   - Serverless architecture
   - Kubernetes architecture, deployment (EKS)
   - Shell scripting and python for automation
@@ -22,10 +22,10 @@ Startup developing a Finance blockchain platform.
 
 **Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(Dec 2020 - Present)_ <br>
 Startup developing a Blockchain.
-  - ansible playbooks
-  - deployed and maintained a on prem kubernetes cluster
-  - totally on prem.
-  - developed KV store using golang on top of tendermint.
+  - Ansible playbooks
+  - Deployed and maintained a on prem kubernetes cluster
+  - Totally on prem.
+  - Developed KV store using golang on top of tendermint.
   - **_Technologies used:_** Baremetal servers, networking, ansible, kubespray, kubernetes, tendermint, golang
 <br><br>
 
