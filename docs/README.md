@@ -7,6 +7,29 @@ _Software engineer based in São Paulo 🇧🇷_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 **Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
+Startup developing a Finance blockchain platform.
+  - aws architecture
+  - Jenkins deployment & administration
+  - terraform deployment
+  - Serverless architecture
+  - Kubernetes architecture, deployment (EKS)
+  - Shell scripting and python for automation
+  - Observability tools (Grafana, Cloudwatch and Rundeck)
+  - Blockchain workload (centriguge, tendermint, smartcontacts)
+  - Resposable for production environments, security and root credentials.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
+<br><br>
+
+**Devops Engineer** @ [Endlabs](https://www.liftedinit.org/) _(Dec 2020 - Present)_ <br>
+Startup developing a Blockchain.
+  - ansible playbooks
+  - deployed and maintained a on prem kubernetes cluster
+  - totally on prem.
+  - developed KV store using golang on top of tendermint.
+  - **_Technologies used:_** Baremetal servers, networking, ansible, kubespray, kubernetes, tendermint, golang
+<br><br>
+
+**Devops Lead** @ [Lifted](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
 Startup developing a Finance blockchain platfarm.
   - aws architect
   - Serverless architecture
@@ -18,52 +41,18 @@ Startup developing a Finance blockchain platfarm.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
 <br><br>
 
-**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
+**SRE** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(Dec 2020 - Present)_ <br>
 Startup developing a Finance blockchain platfarm.
-  - aws architect
-  - Serverless architecture
-  - Kubernetes architecture, deployment (EKS)
-  - Shell scripting and python for automation
-  - Observability tools (Grafana, Cloudwatch and Rundeck)
-  - Blockchain workload (centriguge, tendermint, smartcontacts)
-  - Resposable for production environments, security and root credentials.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
-<br><br>
-
-**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
-Startup developing a Finance blockchain platfarm.
-  - aws architect
-  - Serverless architecture
-  - Kubernetes architecture, deployment (EKS)
-  - Shell scripting and python for automation
-  - Observability tools (Grafana, Cloudwatch and Rundeck)
-  - Blockchain workload (centriguge, tendermint, smartcontacts)
-  - Resposable for production environments, security and root credentials.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
-<br><br>
-
-**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
-Startup developing a Finance blockchain platfarm.
-  - aws architect
-  - Serverless architecture
-  - Kubernetes architecture, deployment (EKS)
-  - Shell scripting and python for automation
-  - Observability tools (Grafana, Cloudwatch and Rundeck)
-  - Blockchain workload (centriguge, tendermint, smartcontacts)
-  - Resposable for production environments, security and root credentials.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
-<br><br>
-
-**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
-Startup developing a Finance blockchain platfarm.
-  - aws architect
-  - Serverless architecture
-  - Kubernetes architecture, deployment (EKS)
-  - Shell scripting and python for automation
-  - Observability tools (Grafana, Cloudwatch and Rundeck)
-  - Blockchain workload (centriguge, tendermint, smartcontacts)
-  - Resposable for production environments, security and root credentials.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
+  - Goggle cloud solutions design
+  - Terraform architecture and coding
+  - python development
+  - Gke multi clusters administration
+  - kubernetes architecture and administration
+  - Gitlab pipeline development.
+  - allocated in a data team with multiple pipelines
+  - Cassandra, bit table, big query, Postgres
+  - Rundeck development and observability tools'
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
 
