@@ -7,12 +7,65 @@ _Software engineer based in São Paulo 🇧🇷_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 **Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+Startup developing a Finance blockchain platfarm.
+  - aws architect
+  - Serverless architecture
+  - Kubernetes architecture, deployment (EKS)
+  - Shell scripting and python for automation
+  - Observability tools (Grafana, Cloudwatch and Rundeck)
+  - Blockchain workload (centriguge, tendermint, smartcontacts)
+  - Resposable for production environments, security and root credentials.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
 <br><br>
+
+**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
+Startup developing a Finance blockchain platfarm.
+  - aws architect
+  - Serverless architecture
+  - Kubernetes architecture, deployment (EKS)
+  - Shell scripting and python for automation
+  - Observability tools (Grafana, Cloudwatch and Rundeck)
+  - Blockchain workload (centriguge, tendermint, smartcontacts)
+  - Resposable for production environments, security and root credentials.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
+<br><br>
+
+**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
+Startup developing a Finance blockchain platfarm.
+  - aws architect
+  - Serverless architecture
+  - Kubernetes architecture, deployment (EKS)
+  - Shell scripting and python for automation
+  - Observability tools (Grafana, Cloudwatch and Rundeck)
+  - Blockchain workload (centriguge, tendermint, smartcontacts)
+  - Resposable for production environments, security and root credentials.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
+<br><br>
+
+**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
+Startup developing a Finance blockchain platfarm.
+  - aws architect
+  - Serverless architecture
+  - Kubernetes architecture, deployment (EKS)
+  - Shell scripting and python for automation
+  - Observability tools (Grafana, Cloudwatch and Rundeck)
+  - Blockchain workload (centriguge, tendermint, smartcontacts)
+  - Resposable for production environments, security and root credentials.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
+<br><br>
+
+**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
+Startup developing a Finance blockchain platfarm.
+  - aws architect
+  - Serverless architecture
+  - Kubernetes architecture, deployment (EKS)
+  - Shell scripting and python for automation
+  - Observability tools (Grafana, Cloudwatch and Rundeck)
+  - Blockchain workload (centriguge, tendermint, smartcontacts)
+  - Resposable for production environments, security and root credentials.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
+<br><br>
+
 
 ## 💬 Languages
 
