@@ -171,5 +171,5 @@ Working in a IT team.
 [Red Hat](https://www.redhat.com/) - São Paulo , São Paulo _(2009 - 7 days course)_ <br>
 
 **MCSE** Microsoft Certified System Engineering<br>
-[IBM](https://www.ibm.com/) - São Paulo , São Paulo _(2004 - 6 months course)_ <br>
+[People Computing](https://www.ibm.com/) - São Paulo , São Paulo _(2006 - 1 year course)_ <br>
 
