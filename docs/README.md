@@ -60,27 +60,63 @@ Inovation team.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
-**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+**SRE** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
 Inovation team.
   - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
-**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+**Especialista em tecnologia III** @ [Rede Globo](https://redeglobo.globo.com/) _(jun 2016 - dec 2018)_ <br>
 Inovation team.
   - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
-**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+**DevOps Engineer** @ [Tokio Marine](https://www.leroymerlin.com.br/) _(jun 2015 - jul 2016)_ <br>
 Inovation team.
   - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
-**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+**DevOps Engineer** @ [SoftLayer, an IBM Company](https://www.ibm.com) _(aug 2013 - jul 2015)_ <br>
 Inovation team.
-  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - I have developed scripts using Ksh, Bash, Perl, python and OpsCode Chef framework based on Ruby to automate infrastructure tasks and deployment of applications in a DevOps approach.
+  - SME Docker Specialist.
+  - BlueMix IBM Containers cloud deployment
+  - Cloud Computing Specialist
+  - SoftLayer, Bluemix, Docker, LXC, Git, Linux , Apache, Shell Script, Linux Servers
+  - Linux distros as CentOS/Debian/Red Hat/Ubuntu/CoreOS
+  - Chef configuration managment tool for automation and deploy on SoftLayer and UrbanCode deploy
+  - Docker automation using Chef recipes
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**Developer** @ [Engineering do Brasil](https://www.engdb.com.br/) _(aug 2013 - jul 2015)_ <br>
+Inovation team.
+  - Operation and Application Support for TIM Brasil.
+  - Python and Selenium to automate boring tasks.
+  - Django (Models, views and templates), Fireworks, Javascript(Jquery), CSS, Ajax
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**Developer** @ [AT&T](https://www.ibm.com) _(jun 2010 - mar 2011)_ <br>
+Inovation team.
+  - AT&T billing application services.
+  - Python developer and application support.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**IT Security analyst** @ [IBM Global Services](https://www.ibm.com) _(jun 2006 - feb 2009)_ <br>
+Inovation team.
+  - Information security policies
+  - User administration
+  - Environment Compliance tools (Tivoli SCM)
+  - Support to different operacional systems (W2K, W2K3, Linux (Suse and Red Hat), HPUX, AIX and SUN Solaris), direct envolvement with projects related to the area, migrating clients for the UAT tool (User Administration), which manages all present users at IBM’s Brasil Outsourcing servers.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**Internship** @ [Perfetti Van Melle](https://www.perfettivanmelle.com/) _(jan 2004 - jun 2006)_ <br>
+Inovation team.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
