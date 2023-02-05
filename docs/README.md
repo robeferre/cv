@@ -7,7 +7,7 @@ _Software engineer based in São Paulo 🇧🇷 who loves Linux, Docker, Network
 ## 👩🏼‍💻 Engineering Experience
 
 **Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
-Startup developing a Finance blockchain platform.
+Startup developing a blockchain platform for Finance.
   - Aws architecture
   - Jenkins deployment & administration
   - Terraform deployment
@@ -30,7 +30,7 @@ Startup developing a Blockchain.
 <br><br>
 
 **SRE/Tech Lead** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(Dec 2020 - Present)_ <br>
-Startup developing a Finance blockchain platfarm.
+Credit company based on analytics.
   - Goggle cloud solutions design
   - Terraform architecture and coding
   - Python development
