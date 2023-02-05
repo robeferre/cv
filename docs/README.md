@@ -40,7 +40,7 @@ Startup developing a Finance blockchain platfarm.
   - Allocated in a data team with multiple data pipelines
   - Cassandra, bit table, big query, Postgres
   - Rundeck development and observability tools'
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** GCP, Terraform, shell scripts, etworking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
 **DevOps Lead** @ [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) _(mar 2020 - sep 2020)_ <br>
@@ -51,7 +51,7 @@ Inovation team.
   - canary and blue green deployment strategies
   - Implemented a monitoring stack using dynatrace and grafana.
   - aws maintainer and architecting
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, Jenkins
 <br><br>
 
 **SRE** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
@@ -59,7 +59,7 @@ Inovation team.
   - Responsible for maintaining architect and migrate Aws workload to GCP.
   - Created terraform scripts for Kubernetes.
   - Split monoliths into microservices.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** GCP, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
 **Especialista em tecnologia III** @ [Rede Globo](https://redeglobo.globo.com/) _(jun 2016 - dec 2018)_ <br>
