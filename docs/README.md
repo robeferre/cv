@@ -2,7 +2,7 @@
 
 _Software engineer based in São Paulo 🇧🇷 who loves Linux, Docker, Networking, Python, Scrum, Microservices, Chaos and Hard scaling problems._ <br>
 
-[Email](mailto:hello@workwithroberto.com) / [Website](https://robeferre.github.io/cv/) / [LinkedIn](https://www.linkedin.com/in/robeferre/) / [GitHub](https://github.com/robeferre/) / [Twitter](https://twitter.com/robeferre/) 
+[Email](mailto:hello@workwithroberto.com) / [Website](https://cv.workwithroberto.com/) / [LinkedIn](https://www.linkedin.com/in/robeferre/) / [GitHub](https://github.com/robeferre/) / [Twitter](https://twitter.com/robeferre/) 
 
 ## 👩🏼‍💻 Engineering Experience
 
