@@ -40,7 +40,7 @@ Credit company based on analytics.
   - Allocated in a data team with multiple data pipelines
   - Cassandra, bit table, big query, Postgres
   - Rundeck development and observability tools'
-  - **_Technologies used:_** GCP, Terraform, shell scripts, etworking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** GCP, Terraform, Shell scripting, Networking, Atlantis, Cassandra, Bit table, Big query, Postgres
 <br><br>
 
 **DevOps Lead** @ [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) _(mar 2020 - sep 2020)_ <br>
@@ -59,13 +59,13 @@ Inovation team.
   - Responsible for maintaining architect and migrate Aws workload to GCP.
   - Created terraform scripts for Kubernetes.
   - Split monoliths into microservices.
-  - **_Technologies used:_** GCP, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** GCP, GKE archtecture, python, shell scripts, terraform, networking.
 <br><br>
 
 **Especialista em tecnologia III** @ [Rede Globo](https://redeglobo.globo.com/) _(jun 2016 - dec 2018)_ <br>
 Inovation team.
   - Alocated in a Quality Assurance team, I worked as an ALM & Devops specialist in an Agile team handling CICD pipelines of Python, NodeJs applications using Gitlab and Fastlane, lead architect for containers technologies mainly using Kubernetes, TFS pipelines for software factories. Maintainer of AWS accounts, desingning solutions as well, most of then focusing on fast delivery and simplicity. I developed some terraform scripts for versioning infrastructure as code. 
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** AWS, python, shell scripts, TFS, Fastlane, Pipelines
 <br><br>
 
 **DevOps Engineer** @ [Tokio Marine](https://www.leroymerlin.com.br/) _(jun 2015 - jul 2016)_ <br>
@@ -73,7 +73,7 @@ Inovation team.
   - Desinged and maintained a Deis container cluster on premise
   - Jenkins Pipelines
   - Container technologies
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** Deis Cluster, Docker, Jenkins, Automation, Java, Tomcat.
 <br><br>
 
 **DevOps Engineer** @ [SoftLayer, an IBM Company](https://www.ibm.com) _(aug 2013 - jul 2015)_ <br>
@@ -86,7 +86,7 @@ Inovation team.
   - Linux distros as CentOS/Debian/Red Hat/Ubuntu/CoreOS
   - Chef configuration managment tool for automation and deploy on SoftLayer and UrbanCode deploy
   - Docker automation using Chef recipes
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** AWS, python, shell scripts, Chef, networking, automations 
 <br><br>
 
 **Developer** @ [Engineering do Brasil](https://www.engdb.com.br/) _(aug 2013 - jul 2015)_ <br>
@@ -94,14 +94,14 @@ Inovation team.
   - Operation and Application Support for TIM Brasil.
   - Python and Selenium to automate boring tasks.
   - Django (Models, views and templates), Fireworks, Javascript(Jquery), CSS, Ajax
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** Django (Models, views and templates), Fireworks, Javascript(Jquery), CSS, Ajax, python, selenium
 <br><br>
 
 **Developer** @ [AT&T](https://www.ibm.com) _(jun 2010 - mar 2011)_ <br>
 Inovation team.
   - AT&T billing application services.
   - Python developer and application support.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** AWS, python, shell scripts
 <br><br>
 
 **IT Security analyst** @ [IBM Global Services](https://www.ibm.com) _(jun 2006 - feb 2009)_ <br>
@@ -110,12 +110,16 @@ Inovation team.
   - User administration
   - Environment Compliance tools (Tivoli SCM)
   - Support to different operacional systems (W2K, W2K3, Linux (Suse and Red Hat), HPUX, AIX and SUN Solaris), direct envolvement with projects related to the area, migrating clients for the UAT tool (User Administration), which manages all present users at IBM’s Brasil Outsourcing servers.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - **_Technologies used:_** Unix, Security, sysadmin, User Administration and permissioning
 <br><br>
 
 **Internship/Junior analyst** @ [Perfetti Van Melle](https://www.perfettivanmelle.com/) _(jan 2004 - jun 2006)_ <br>
 Inovation team.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+  - IT administration
+  - Active Directory administration
+  - User support.
+  - SQL server administration
+  - **_Technologies used:_** Windows environment administration.
 <br><br>
 
 
@@ -130,8 +134,18 @@ Inovation team.
 **Bachelor of Engineering (B.E.)** in Computer Engineering<br>
 [São Francisco University](https://www.usf.edu.br/) - Campinas , São Paulo , BR _(2004 - 2010)_ <br>
 
+**English** for Business<br>
+[PICE - Perth international college of english](https://www.pice.edu/) , BR- PErth WA, Australia _(Fall 2010)_ <br>
+
 **Perestroika - Chora PPT** focused on Storytelling<br>
 [SPICED Academy](https://www.perestroika.com.br/) - São Paulo , São Paulo _(2019 - 7 days course)_ <br>
 
-**English** for Business<br>
-[PICE - Perth international college of english](https://www.pice.edu/) , BR- PErth WA, Australia _(Fall 2010)_ <br>
+**ITIL Foundation** at IBM<br>
+[IBM](https://www.ibm.com/) - São Paulo , São Paulo _(2019 - 5 days course)_ <br>
+
+**RH133** Red Hat Linux System Administration<br>
+[Red Hat](https://www.redhat.com/) - São Paulo , São Paulo _(2009 - 7 days course)_ <br>
+
+**MCSE** Microsoft Certified System Engineering<br>
+[IBM](https://www.ibm.com/) - São Paulo , São Paulo _(2004 - 6 months course)_ <br>
+
