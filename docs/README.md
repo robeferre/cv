@@ -29,13 +29,13 @@ Startup developing a Blockchain.
   - **_Technologies used:_** Baremetal servers, networking, ansible, kubespray, kubernetes, tendermint, golang
 <br><br>
 
-**SRE** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(Dec 2020 - Present)_ <br>
+**SRE/Tech Lead** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(Dec 2020 - Present)_ <br>
 Startup developing a Finance blockchain platfarm.
   - Goggle cloud solutions design
   - Terraform architecture and coding
   - Python development
   - Gke multi clusters administration
-  - kubernetes architecture and administration
+  - Kubernetes architecture and administration
   - Gitlab pipeline development.
   - Allocated in a data team with multiple data pipelines
   - Cassandra, bit table, big query, Postgres
@@ -56,25 +56,23 @@ Inovation team.
 
 **SRE** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
 Inovation team.
-  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
-<br><br>
-
-**SRE** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
-Inovation team.
-  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - Responsible for maintaining architect and migrate Aws workload to GCP.
+  - Created terraform scripts for Kubernetes.
+  - Split monoliths into microservices.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
 **Especialista em tecnologia III** @ [Rede Globo](https://redeglobo.globo.com/) _(jun 2016 - dec 2018)_ <br>
 Inovation team.
-  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - Alocated in a Quality Assurance team, I worked as an ALM & Devops specialist in an Agile team handling CICD pipelines of Python, NodeJs applications using Gitlab and Fastlane, lead architect for containers technologies mainly using Kubernetes, TFS pipelines for software factories. Maintainer of AWS accounts, desingning solutions as well, most of then focusing on fast delivery and simplicity. I developed some terraform scripts for versioning infrastructure as code. 
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
 **DevOps Engineer** @ [Tokio Marine](https://www.leroymerlin.com.br/) _(jun 2015 - jul 2016)_ <br>
 Inovation team.
-  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - Desinged and maintained a Deis container cluster on premise
+  - Jenkins Pipelines
+  - Container technologies
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
