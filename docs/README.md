@@ -8,24 +8,25 @@ _Software engineer based in São Paulo 🇧🇷 who loves Linux, Docker, Network
 
 **Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
 Startup developing a blockchain platform for Finance.
-  - Aws architecture
-  - Jenkins deployment & administration
-  - Terraform deployment
-  - Serverless architecture
-  - Kubernetes architecture, deployment (EKS)
-  - Shell scripting and python for automation
-  - Observability tools (Grafana, Cloudwatch and Rundeck)
-  - Blockchain workload (centriguge, tendermint, smartcontacts)
+  - Aws architecture.
+  - Jenkins deployment & administration.
+  - Terraform deployments.
+  - Serverless architecture.
+  - Kubernetes architecture, deployment (EKS).
+  - Shell scripting and Python for automation.
+  - Observability tools (Grafana, Cloudwatch and Rundeck).
+  - Blockchain workload (centriguge, tendermint, smartcontacts, polygon nodes).
   - Resposable for production environments, security and root credentials.
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, blockchain, jenkins, cicd pipelines, lambdas
+  - **_Technologies used:_** AWS archtecturing, Python, Scripting, terraform, blockchain, Jenkins, Cicd pipelines, Lambdas, observability.
 <br><br>
 
 **Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(Dec 2020 - Present)_ <br>
 Startup developing a Blockchain.
   - Ansible playbooks
-  - Deployed and maintained a on prem kubernetes cluster
+  - Architectured, deployed and maintained a on prem kubernetes cluster (3 CP, 5 nodes)
   - Totally on prem.
   - Developed KV store using golang on top of tendermint.
+  - Blockchain.
   - **_Technologies used:_** Baremetal servers, networking, ansible, kubespray, kubernetes, tendermint, golang
 <br><br>
 
@@ -40,86 +41,102 @@ Credit company based on analytics.
   - Allocated in a data team with multiple data pipelines
   - Cassandra, bit table, big query, Postgres
   - Rundeck development and observability tools'
-  - **_Technologies used:_** GCP, Terraform, Shell scripting, Networking, Atlantis, Cassandra, Bit table, Big query, Postgres
+  - **_Technologies used:_** GCP, Terraform, Shell scripting, Networking, Atlantis, Cassandra, Bit table, Big query, Postgres, Team Leadership
 <br><br>
 
 **DevOps Lead** @ [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) _(mar 2020 - sep 2020)_ <br>
-Inovation team.
-  - created multiple pipelines integrating Jenkins with kubernetes. 
-  - team coordination using Spotify framework
-  - used spinnaker to develop deployment pipelines
-  - canary and blue green deployment strategies
+Working in an Inovation team.
+  - Created multiple pipelines integrating Jenkins with kubernetes. 
+  - Team coordination using Spotify framework
+  - Used spinnaker to develop deployment pipelines
+  - Canary and blue green deployment strategies
   - Implemented a monitoring stack using dynatrace and grafana.
-  - aws maintainer and architecting
-  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, Jenkins
+  - AWS maintainer and architecture.
+  - **_Technologies used:_** AWS, Python, Shell scripts, terraform, networking, Jenkins, Team Leadership
 <br><br>
 
 **SRE** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
-Inovation team.
+Working in an Ops Team.
   - Responsible for maintaining architect and migrate Aws workload to GCP.
   - Created terraform scripts for Kubernetes.
   - Split monoliths into microservices.
-  - **_Technologies used:_** GCP, GKE archtecture, python, shell scripts, terraform, networking.
+  - GKE archteture and maintanence.
+  - Observability using Dynatrace.
+  - Pipelines using CircleCI.
+  - **_Technologies used:_** GCP, GKE archtecture, Python, Shell scripts, terraform, networking.
 <br><br>
 
 **Especialista em tecnologia III** @ [Rede Globo](https://redeglobo.globo.com/) _(jun 2016 - dec 2018)_ <br>
-Inovation team.
-  - Alocated in a Quality Assurance team, I worked as an ALM & Devops specialist in an Agile team handling CICD pipelines of Python, NodeJs applications using Gitlab and Fastlane, lead architect for containers technologies mainly using Kubernetes, TFS pipelines for software factories. Maintainer of AWS accounts, desingning solutions as well, most of then focusing on fast delivery and simplicity. I developed some terraform scripts for versioning infrastructure as code. 
-  - **_Technologies used:_** AWS, python, shell scripts, TFS, Fastlane, Pipelines
+Working in a QA Team.
+  - Alocated in a Quality Assurance team.
+  - Worked as an ALM & Devops specialist in an Agile team handling CICD multiple pipelines.
+  - NodeJs applications using Gitlab and Fastlane.
+  - Lead architect for containers technologies mainly using Kubernetes.
+  - TFS pipelines for software factories. 
+  - Maintainer of AWS accounts, desingning solutions as well, most of then focusing on fast delivery and simplicity. 
+  - Terraform scripting for versioning infrastructure as code. 
+  - **_Technologies used:_** AWS, Python, Shell scripts, TFS, Fastlane, Pipelines.
 <br><br>
 
 **DevOps Engineer** @ [Tokio Marine](https://www.leroymerlin.com.br/) _(jun 2015 - jul 2016)_ <br>
-Inovation team.
-  - Desinged and maintained a Deis container cluster on premise
-  - Jenkins Pipelines
-  - Container technologies
+Working in an Archtecture team.
+  - Desinged and maintained a Deis container cluster on premise.
+  - Jenkins Pipelines.
+  - Container technologies.
+  - Totally on prem.
+  - TOMCAT templating.
+  - Java Deployments.
   - **_Technologies used:_** Deis Cluster, Docker, Jenkins, Automation, Java, Tomcat.
 <br><br>
 
 **DevOps Engineer** @ [SoftLayer, an IBM Company](https://www.ibm.com) _(aug 2013 - jul 2015)_ <br>
-Inovation team.
-  - I have developed scripts using Ksh, Bash, Perl, python and OpsCode Chef framework based on Ruby to automate infrastructure tasks and deployment of applications in a DevOps approach.
+Working in a Devops Team team.
+  - I have developed scripts using Ksh, Bash, Perl, Python and OpsCode Chef framework based on Ruby to automate infrastructure tasks and deployment of applications in a DevOps approach.
   - SME Docker Specialist.
-  - BlueMix IBM Containers cloud deployment
-  - Cloud Computing Specialist
-  - SoftLayer, Bluemix, Docker, LXC, Git, Linux , Apache, Shell Script, Linux Servers
-  - Linux distros as CentOS/Debian/Red Hat/Ubuntu/CoreOS
-  - Chef configuration managment tool for automation and deploy on SoftLayer and UrbanCode deploy
-  - Docker automation using Chef recipes
-  - **_Technologies used:_** AWS, python, shell scripts, Chef, networking, automations 
+  - BlueMix IBM Containers cloud deployment.
+  - Cloud Computing Specialist.
+  - SoftLayer, Bluemix, Docker, LXC, Git, Linux , Apache, Shell Script, Linux Servers.
+  - Linux distros as CentOS/Debian/Red Hat/Ubuntu/CoreOS.
+  - Chef configuration managment tool for automation and deploy on SoftLayer and UrbanCode deploy.
+  - Docker automation using Chef recipes.
+  - **_Technologies used:_** AWS, Python, Shell scripts, Chef, networking, Automations.
 <br><br>
 
 **Developer** @ [Engineering do Brasil](https://www.engdb.com.br/) _(aug 2013 - jul 2015)_ <br>
-Inovation team.
+Working in a Project team.
   - Operation and Application Support for TIM Brasil.
   - Python and Selenium to automate boring tasks.
-  - Django (Models, views and templates), Fireworks, Javascript(Jquery), CSS, Ajax
-  - **_Technologies used:_** Django (Models, views and templates), Fireworks, Javascript(Jquery), CSS, Ajax, python, selenium
+  - Django (Models, views and templates).
+  - Fireworks.
+  - Javascript(Jquery), CSS, Ajax.
+  - **_Technologies used:_** Django (Models, views and templates), Fireworks, Javascript(Jquery), CSS, Ajax, Python, Selenium.
 <br><br>
 
 **Developer** @ [AT&T](https://www.ibm.com) _(jun 2010 - mar 2011)_ <br>
-Inovation team.
+Working in a Billing team.
   - AT&T billing application services.
   - Python developer and application support.
-  - **_Technologies used:_** AWS, python, shell scripts
+  - Manual billing data input (Automated by myself later on)
+  - **_Technologies used:_** AWS, Python, Shell scripts.
 <br><br>
 
 **IT Security analyst** @ [IBM Global Services](https://www.ibm.com) _(jun 2006 - feb 2009)_ <br>
-Inovation team.
-  - Information security policies
-  - User administration
-  - Environment Compliance tools (Tivoli SCM)
-  - Support to different operacional systems (W2K, W2K3, Linux (Suse and Red Hat), HPUX, AIX and SUN Solaris), direct envolvement with projects related to the area, migrating clients for the UAT tool (User Administration), which manages all present users at IBM’s Brasil Outsourcing servers.
-  - **_Technologies used:_** Unix, Security, sysadmin, User Administration and permissioning
+Working in a Security team.
+  - Information security policies.
+  - User administration.
+  - Environment Compliance tools (Tivoli SCM).
+  - Support to different operacional systems (W2K, W2K3, Linux (Suse and Red Hat), HPUX, AIX and SUN Solaris).
+  - Direct envolvement with projects related to the area, migrating clients for the UAT tool (User Administration), which manages all present users at IBM’s Brasil Outsourcing servers.
+  - **_Technologies used:_** Unix, Security, Sysadmin, User Administration and permissioning, HPUX, SUN Solaris, Redhat, Debian, Suse, Cygwin.
 <br><br>
 
 **Internship/Junior analyst** @ [Perfetti Van Melle](https://www.perfettivanmelle.com/) _(jan 2004 - jun 2006)_ <br>
-Inovation team.
+Working in a IT team.
   - IT administration
   - Active Directory administration
   - User support.
   - SQL server administration
-  - **_Technologies used:_** Windows environment administration.
+  - **_Technologies used:_** Windows environment administration, User support.
 <br><br>
 
 
@@ -135,7 +152,7 @@ Inovation team.
 [São Francisco University](https://www.usf.edu.br/) - Campinas , São Paulo , BR _(2004 - 2010)_ <br>
 
 **English** for Business<br>
-[PICE - Perth international college of english](https://www.pice.edu/) , BR- PErth WA, Australia _(Fall 2010)_ <br>
+[PICE - Perth international college of english](https://www.pice.edu/) - Perth WA, Australia _(2010)_ <br>
 
 **Perestroika - Chora PPT** focused on Storytelling<br>
 [SPICED Academy](https://www.perestroika.com.br/) - São Paulo , São Paulo _(2019 - 7 days course)_ <br>
