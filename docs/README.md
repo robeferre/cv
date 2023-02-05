@@ -43,6 +43,48 @@ Startup developing a Finance blockchain platfarm.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
+**DevOps Lead** @ [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) _(mar 2020 - sep 2020)_ <br>
+Inovation team.
+  - created multiple pipelines integrating Jenkins with kubernetes. 
+  - team coordination using Spotify framework
+  - used spinnaker to develop deployment pipelines
+  - canary and blue green deployment strategies
+  - Implemented a monitoring stack using dynatrace and grafana.
+  - aws maintainer and architecting
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**SRE** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+Inovation team.
+  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+Inovation team.
+  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+Inovation team.
+  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+Inovation team.
+  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+**Especialista em tecnologia III** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
+Inovation team.
+  - Responsible for maintaining architect and migrate Aws workload to GCP and create terraform scripts for Kubernetes and split monoliths into microservices.
+  - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
+<br><br>
+
+
 ## 💬 Languages
 
 🇺🇸 **English**: Advanced <br>
