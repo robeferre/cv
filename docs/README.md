@@ -1,6 +1,6 @@
 # Roberto Ferreira Junior
 
-_Software engineer based in São Paulo 🇧🇷_ <br>
+_Software engineer based in São Paulo 🇧🇷 who loves Linux, Docker, Networking, Python, Scrum, microservices, chaos and hard scaling problems._ <br>
 
 [Email](mailto:hello@workwithroberto.com) / [Website](https://workwithroberto.com/) / [LinkedIn](https://www.linkedin.com/in/robeferre/) / [GitHub](https://github.com/robeferre/) / [Twitter](https://twitter.com/robeferre/) 
 
@@ -113,7 +113,7 @@ Inovation team.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
 
-**Internship** @ [Perfetti Van Melle](https://www.perfettivanmelle.com/) _(jan 2004 - jun 2006)_ <br>
+**Internship/Junior analyst** @ [Perfetti Van Melle](https://www.perfettivanmelle.com/) _(jan 2004 - jun 2006)_ <br>
 Inovation team.
   - **_Technologies used:_** AWS, python, shell scripts, terraform, networking, atlantis, Cassandra, bit table, big query, Postgres
 <br><br>
@@ -128,7 +128,7 @@ Inovation team.
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Engineering (B.E.)** in Computer Engineering<br>
-[São Francisco University](https://www.usf.edu.br/) - Campinas , São Paulo , BR _(2005 - 2010)_ <br>
+[São Francisco University](https://www.usf.edu.br/) - Campinas , São Paulo , BR _(2004 - 2010)_ <br>
 
 **Perestroika - Chora PPT** focused on Storytelling<br>
 [SPICED Academy](https://www.perestroika.com.br/) - São Paulo , São Paulo _(2019 - 7 days course)_ <br>
