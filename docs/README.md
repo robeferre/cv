@@ -1,12 +1,12 @@
 # Roberto Ferreira Junior
 
-_Software engineer based in São Paulo 🇧🇷 who loves Linux, Docker, Networking, Python, Scrum, microservices, chaos and hard scaling problems._ <br>
+_Software engineer based in São Paulo 🇧🇷 who loves Linux, Docker, Networking, Python, Scrum, Microservices, Chaos and Hard scaling problems._ <br>
 
 [Email](mailto:hello@workwithroberto.com) / [Website](https://workwithroberto.com/) / [LinkedIn](https://www.linkedin.com/in/robeferre/) / [GitHub](https://github.com/robeferre/) / [Twitter](https://twitter.com/robeferre/) 
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Devops Lead** @ [Endlabs](https://end-labs.io/) _(Dec 2020 - Present)_ <br>
+**Devops Lead** @ [Endlabs](https://end-labs.io/) _(apr 2022) - Present)_ <br>
 Startup developing a blockchain platform for Finance.
   - Aws architecture.
   - Jenkins deployment & administration.
@@ -20,17 +20,17 @@ Startup developing a blockchain platform for Finance.
   - **_Technologies used:_** AWS archtecturing, Python, Scripting, terraform, blockchain, Jenkins, Cicd pipelines, Lambdas, observability.
 <br><br>
 
-**Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(Dec 2020 - Present)_ <br>
+**Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(jul 2022 - Present)_ <br>
 Startup developing a Blockchain.
   - Ansible playbooks
   - Architectured, deployed and maintained a on prem kubernetes cluster (3 CP, 5 nodes)
   - Totally on prem.
   - Developed KV store using golang on top of tendermint.
   - Blockchain.
-  - **_Technologies used:_** Baremetal servers, networking, ansible, kubespray, kubernetes, tendermint, golang
+  - **_Technologies used:_** Baremetal servers, Networking, ansible, kubespray, kubernetes, tendermint, golang
 <br><br>
 
-**SRE/Tech Lead** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(Dec 2020 - Present)_ <br>
+**SRE/Tech Lead** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(mar 2021 - apr 2022)_ <br>
 Credit company based on analytics.
   - Goggle cloud solutions design
   - Terraform architecture and coding
@@ -52,18 +52,18 @@ Working in an Inovation team.
   - Canary and blue green deployment strategies
   - Implemented a monitoring stack using dynatrace and grafana.
   - AWS maintainer and architecture.
-  - **_Technologies used:_** AWS, Python, Shell scripts, terraform, networking, Jenkins, Team Leadership
+  - **_Technologies used:_** AWS, Python, Shell scripts, terraform, Networking, Jenkins, Team Leadership
 <br><br>
 
 **SRE** @ [Leroy Merlin](https://www.leroymerlin.com.br/) _(aug 2019 - mar 2020)_ <br>
 Working in an Ops Team.
   - Responsible for maintaining architect and migrate Aws workload to GCP.
   - Created terraform scripts for Kubernetes.
-  - Split monoliths into microservices.
+  - Split monoliths into Microservices.
   - GKE archteture and maintanence.
   - Observability using Dynatrace.
   - Pipelines using CircleCI.
-  - **_Technologies used:_** GCP, GKE archtecture, Python, Shell scripts, terraform, networking.
+  - **_Technologies used:_** GCP, GKE archtecture, Python, Shell scripts, terraform, Networking.
 <br><br>
 
 **Especialista em tecnologia III** @ [Rede Globo](https://redeglobo.globo.com/) _(jun 2016 - dec 2018)_ <br>
@@ -99,7 +99,7 @@ Working in a Devops Team team.
   - Linux distros as CentOS/Debian/Red Hat/Ubuntu/CoreOS.
   - Chef configuration managment tool for automation and deploy on SoftLayer and UrbanCode deploy.
   - Docker automation using Chef recipes.
-  - **_Technologies used:_** AWS, Python, Shell scripts, Chef, networking, Automations.
+  - **_Technologies used:_** AWS, Python, Shell scripts, Chef, Networking, Automations.
 <br><br>
 
 **Developer** @ [Engineering do Brasil](https://www.engdb.com.br/) _(aug 2013 - jul 2015)_ <br>
@@ -117,6 +117,7 @@ Working in a Billing team.
   - AT&T billing application services.
   - Python developer and application support.
   - Manual billing data input (Automated by myself later on)
+  - Oracle Administration.
   - **_Technologies used:_** AWS, Python, Shell scripts.
 <br><br>
 
@@ -126,8 +127,8 @@ Working in a Security team.
   - User administration.
   - Environment Compliance tools (Tivoli SCM).
   - Support to different operacional systems (W2K, W2K3, Linux (Suse and Red Hat), HPUX, AIX and SUN Solaris).
-  - Direct envolvement with projects related to the area, migrating clients for the UAT tool (User Administration), which manages all present users at IBM’s Brasil Outsourcing servers.
-  - **_Technologies used:_** Unix, Security, Sysadmin, User Administration and permissioning, HPUX, SUN Solaris, Redhat, Debian, Suse, Cygwin.
+  - Direct envolvement with projects related to the area, migrating clients for the UAT tool (User Administration), which managed all present users at IBM’s Brasil Outsourcing servers.
+  - **_Technologies used:_** Unix, Security, Sysadmin, User Administration and permissioning, Cygwin.
 <br><br>
 
 **Internship/Junior analyst** @ [Perfetti Van Melle](https://www.perfettivanmelle.com/) _(jan 2004 - jun 2006)_ <br>
@@ -153,6 +154,12 @@ Working in a IT team.
 
 **English** for Business<br>
 [PICE - Perth international college of english](https://www.pice.edu/) - Perth WA, Australia _(2010)_ <br>
+
+**DevOps Essential Professional Certificate** at CertiProf<br>
+[CertiProf](https://www.ibm.com/) - Online course _(Issued Jan 2019)_ <br>
+
+**Data Scientist with Python** at DataCamp<br>
+[DataCamp](https://www.datacamp.com/) - Online course _(Issued May 2019)_ <br>
 
 **Perestroika - Chora PPT** focused on Storytelling<br>
 [SPICED Academy](https://www.perestroika.com.br/) - São Paulo , São Paulo _(2019 - 7 days course)_ <br>
