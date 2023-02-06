@@ -156,7 +156,7 @@ Working in a IT team.
 [PICE - Perth international college of english](https://www.pice.edu/) - Perth WA, Australia _(2010)_ <br>
 
 **DevOps Essential Professional Certificate** at CertiProf<br>
-[CertiProf](https://www.ibm.com/) - Online course _(Issued Jan 2019)_ <br>
+[CertiProf](https://www.certiprof.com/) - Online course _(Issued Jan 2019)_ <br>
 
 **Data Scientist with Python** at DataCamp<br>
 [DataCamp](https://www.datacamp.com/) - Online course _(Issued May 2019)_ <br>
