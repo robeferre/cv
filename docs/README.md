@@ -149,6 +149,9 @@ Working in a IT team.
 
 ## 👩🏼‍🎓 Education
 
+**MBA** in Finance<br>
+[Insper](https://www.insper.edu.br/) - São Paulo , São Paulo , BR _(2020 - 2021)_ <br>
+
 **Bachelor of Engineering (B.E.)** in Computer Engineering<br>
 [São Francisco University](https://www.usf.edu.br/) - Campinas , São Paulo , BR _(2004 - 2010)_ <br>
 
