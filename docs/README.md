@@ -17,7 +17,7 @@ Startup developing a blockchain platform for Finance.
   - Observability tools (Grafana, Cloudwatch and Rundeck).
   - Blockchain workload (centriguge, tendermint, smartcontacts, polygon nodes).
   - Resposable for production environments, security and root credentials.
-  - **_Technologies used:_** AWS archtecturing, Python, Scripting, terraform, blockchain, Jenkins, Cicd pipelines, Lambdas, observability.
+  - **_Technologies used:_** Jenkins · Unix · Docker Products · Prometheus.io · Shell Scripting · Continuous Integration · Continuous Integration and Continuous Delivery (CI/CD) · Blockchain · Grafana · DevOps · Cloud Computing · Scrum · Solution Architecture · Desenvolvimento de software · Linux · English · Kubernetes
 <br><br>
 
 **Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(jul 2022 - Present)_ <br>
