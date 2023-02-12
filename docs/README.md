@@ -27,7 +27,7 @@ Startup developing a Blockchain.
   - Totally on prem.
   - Developed KV store using golang on top of tendermint.
   - Blockchain.
-  - **_Technologies used:_** Baremetal servers, Networking, ansible, kubespray, kubernetes, tendermint, golang
+  - **_Technologies used:_**  Unix · Docker Products · Prometheus.io · Shell Scripting · Continuous Integration · Continuous Integration and Continuous Delivery (CI/CD) · Blockchain · Grafana · Amazon Web Services (AWS) · DevOps · Scrum · Information Security · Desenvolvimento de software · Linux · English
 <br><br>
 
 **SRE/Tech Lead** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(mar 2021 - apr 2022)_ <br>
@@ -41,7 +41,7 @@ Credit company based on analytics.
   - Allocated in a data team with multiple data pipelines
   - Cassandra, bit table, big query, Postgres
   - Rundeck development and observability tools'
-  - **_Technologies used:_** GCP, Terraform, Shell scripting, Networking, Atlantis, Cassandra, Bit table, Big query, Postgres, Team Leadership
+  - **_Technologies used:_** Unix · Docker Products · Prometheus.io · Shell Scripting · Continuous Integration · Continuous Integration and Continuous Delivery (CI/CD) · Grafana · DevOps · Cloud Computing · Scrum · Solution Architecture · Desenvolvimento de software · Linux · Terraform · Google Cloud Platform (GCP)
 <br><br>
 
 **DevOps Lead** @ [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) _(mar 2020 - sep 2020)_ <br>
