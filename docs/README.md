@@ -1,8 +1,8 @@
 # Roberto Ferreira Junior
 
-_Software engineer based in São Paulo 🇧🇷 who loves Linux, Docker, Networking, Python, Scrum, Microservices, Chaos and Hard scaling problems._ <br>
+_Software engineer based in Rio de Janeiro 🇧🇷 who loves Linux, Docker, Networking, Python, Scrum, Microservices, Chaos and Hard scaling problems._ <br>
 
-[Email](mailto:hello@workwithroberto.com) / [Website](https://cv.workwithroberto.com/) / [LinkedIn](https://www.linkedin.com/in/robeferre/) / [GitHub](https://github.com/robeferre/)
+[Email](mailto:robeferre@gmail.com) / [Website](https://cv.workwithroberto.com/) / [LinkedIn](https://www.linkedin.com/in/robeferre/) / [GitHub](https://github.com/robeferre/)
 
 ## 👩🏼‍💻 Engineering Experience
 
