@@ -6,7 +6,7 @@ _Software engineer based in Rio de Janeiro 🇧🇷 who loves Linux, Docker, Net
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Devops Lead** @ [Endlabs](https://end-labs.io/) _(apr 2022) - Present)_ <br>
+**Devops Engineer** @ [Endlabs](https://end-labs.io/) _(apr 2022) - Present)_ <br>
 Startup developing a blockchain platform for Finance.
   - Aws architecture.
   - Jenkins deployment & administration.
@@ -30,7 +30,7 @@ Startup developing a Blockchain.
   - **_Technologies used:_**  Unix · Docker Products · Prometheus.io · Shell Scripting · Continuous Integration · Continuous Integration and Continuous Delivery (CI/CD) · Blockchain · Grafana · Amazon Web Services (AWS) · DevOps · Scrum · Information Security · Desenvolvimento de software · Linux · English
 <br><br>
 
-**SRE/Tech Lead** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(mar 2021 - apr 2022)_ <br>
+**SRE/Devops Engineer** @ [Boa Vista](https://www.consumidorpositivo.com.br/) _(mar 2021 - apr 2022)_ <br>
 Credit company based on analytics.
   - Goggle cloud solutions design
   - Terraform architecture and coding
@@ -44,7 +44,7 @@ Credit company based on analytics.
   - **_Technologies used:_** Unix · Docker Products · Prometheus.io · Shell Scripting · Continuous Integration · Continuous Integration and Continuous Delivery (CI/CD) · Grafana · DevOps · Cloud Computing · Scrum · Solution Architecture · Desenvolvimento de software · Linux · Terraform · Google Cloud Platform (GCP)
 <br><br>
 
-**DevOps Lead** @ [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) _(mar 2020 - sep 2020)_ <br>
+**Devops Engineer** @ [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) _(mar 2020 - sep 2020)_ <br>
 Working in an Inovation team.
   - Created multiple pipelines integrating Jenkins with kubernetes. 
   - Team coordination using Spotify framework
