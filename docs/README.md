@@ -6,7 +6,7 @@ _Software engineer based in Rio de Janeiro 🇧🇷 who loves Linux, Docker, Net
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Devops Engineer** @ [Endlabs](https://end-labs.io/) _(apr 2022) - Present)_ <br>
+**Devops Engineer** @ [Endlabs](https://end-labs.io/) _(apr 2022) - jan 2023)_ <br>
 Startup developing a blockchain platform for Finance.
   - Aws architecture.
   - Jenkins deployment & administration.
@@ -20,7 +20,7 @@ Startup developing a blockchain platform for Finance.
   - **_Technologies used:_** Jenkins · Unix · Docker Products · Prometheus.io · Shell Scripting · Continuous Integration · Continuous Integration and Continuous Delivery (CI/CD) · Blockchain · Grafana · DevOps · Cloud Computing · Scrum · Solution Architecture · Desenvolvimento de software · Linux · English · Kubernetes
 <br><br>
 
-**Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(jul 2022 - Present)_ <br>
+**Devops Engineer** @ [Lifted](https://www.liftedinit.org/) _(jul 2022 - jan 2023)_ <br>
 Startup developing a Blockchain.
   - Ansible playbooks
   - Architectured, deployed and maintained a on prem kubernetes cluster (3 CP, 5 nodes)
